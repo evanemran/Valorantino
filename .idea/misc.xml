@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/activity_agent_details.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/activity_weapons.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/fragment_agents.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/fragment_buddies.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/fragment_bundles.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/fragment_events.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/fragment_maps.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/fragment_weapons.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_ability.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_agents.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_buddies.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_bundles.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_damage.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_drawer.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_events.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_home.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_maps.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_top.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/list_weapons.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/nav_header.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/layout/slider_item.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/menu/nav_menu.xml" value="0.30416666666666664" />
+        <entry key="..\:/Android_Projects/ValorantGG/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17708333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

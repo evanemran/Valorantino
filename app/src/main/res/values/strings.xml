@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Valorantino</string>
+
+    <string name="agent">Agents</string>
+    <string name="weapons">Weapons</string>
+    <string name="maps">Maps</string>
+    <string name="events">Events</string>
+    <string name="buddies">Buddies</string>
+    <string name="bundles">Bundles</string>
+    <string name="tiers">Tiers</string>
+    <string name="sprays">Sprays</string>
+    <string name="seasons">Seasons</string>
+    <string name="gear">Gear</string>
+    <string name="currency">Currency</string>
+    <string name="modes">Modes</string>
+    <string name="playercard">Player Card</string>
+    <string name="playertitle">Player Title</string>
+    <string name="ceremony">Ceremonies</string>
+
+
+
+    <string name="about_valorant">All data comes straight from the Valorant game files and will get updated automatically once another patch gets released.</string>
+
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="valorant">Valorant</string>
+    <string name="language">Language</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="theme">Theme</string>
+
+
+    <string name="open_nav_drawer">Open Navigation Drawer</string>
+    <string name="close_nav_drawer">Close Navigation Drawer</string>
+</resources>
